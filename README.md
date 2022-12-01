@@ -1,6 +1,6 @@
 # Advent-of-Code-2022
 
-## Adventurer Ahmed Proceed!!
+## Adventurer Ahmed, Proceed!!
 I'm attempting to finish the entire Advent of Code for this December! It's going to take place from the first of Decmeber until the 25th! 
 <br>From what I remember, I'm gonna help Santa and his friends with their Christmas preperations with my (very) mighty programming skills! Since I'm not that busy now adays, and stressed out since finals are coming up, coding is what the doctor would have prescribed.
 
